@@ -24,7 +24,7 @@ export default function App() {
       <header className="site-header">
         <div className="container">
           <h1>LiveNYC</h1>
-          <p className="subtitle">A curated board for NYC’s music scene — discover concerts, explore alternative genres, and rising artists.”</p> 
+          <p className="subtitle">A curated board for NYC's music scene — discover concerts, explore alternative genres, and rising artists.</p> 
 
           <div className="search-row">
             <input
